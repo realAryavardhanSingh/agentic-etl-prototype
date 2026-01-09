@@ -1,19 +1,4 @@
-# OS generated
-.DS_Store
-Thumbs.db
-
-# Python
 __pycache__/
-*.py[cod]
-venv/
-.env
-
-# Secrets (CRITICAL)
-secrets.json
-*.pem
 *.csv
-*.key
-credentials.ini
-
-# Databricks
-.databricks/
+.DS_Store
+.env
